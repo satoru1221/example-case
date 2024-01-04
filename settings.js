@@ -7,7 +7,7 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'ayzp5jGdB6FodoX',
 }
 
 global.namabot = "Bot Store"
@@ -18,7 +18,7 @@ global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['6285962751733']
 global.pairingNumber = "" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
@@ -60,8 +60,8 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ Free : ${freeGb} GB
 ╰──────────◇
 ╭✄┈┈┈⟬ *INFO-BOT* ⟭
-┆❐ Creator : ${ownerName}
-┆❐ Bot Name : ${botName}
+┆❐ Creator : ${fzrprll}
+┆❐ Bot Name : ${fzrprll official}
 ┆❐ Time : ${jam}
 ┆❐ Date : ${tanggal}
 ┆❐ Runtime : ${runtime}
